@@ -25,6 +25,7 @@ A parameter k is introduced to the defined train_test function that controls the
 # Linear Regression to predict the House Price
 Once the Data Preprocessing and K-Fold Cross Validation is done, we use Linear Regression to predict the House Price and we compute the RMSE to evaluate the quality of Prediction:
 
-from sklearn import linear_model
-RMSE = mean_squared_error(test_set, predictied_value) 
+```python
+* from sklearn import linear_model
+* RMSE = mean_squared_error(test_set, predictied_value) 
 
