@@ -14,5 +14,5 @@ We use Linear Regression to Predict the House Prices.
 * Identify numeric columns that correlated strongly with target columns, and selected those with strong correlations (> 0.4)
 * Generate Heatmap for identifying collinearity between columns and drop variables that are strongly correlated.
 
-![Heatmap](/images/logo.png)
+![Heatmap](https://github.com/srikanthv0610/House_Price_Prediction/blob/main/plots/Heatmap_Collinearity.png)
 Format: ![Alt Text](url)
