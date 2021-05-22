@@ -1,7 +1,9 @@
 # House_Price_Prediction
-⋅⋅⋅Used the AmesHousing dataset compiled by Dean De Cock.⋅⋅ 
-⋅⋅⋅Apply Feature Transformation, Feature Selection and K-fold Cross Validation.⋅⋅
-⋅⋅⋅Linear Regression to Predict the House Prices.
+Used the AmesHousing dataset [here](https://github.com/srikanthv0610/House_Price_Prediction/edit/main/dataset) compiled by Dean De Cock.
+
+Apply Feature Transformation, Feature Selection and K-fold Cross Validation.
+
+Linear Regression to Predict the House Prices.
 
 # Feature Transformation
 * Check the columns with more than 15% missing values and drop them.
