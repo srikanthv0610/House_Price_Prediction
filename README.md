@@ -1,5 +1,5 @@
 # House_Price_Prediction
-Used the AmesHousing dataset [here](https://github.com/srikanthv0610/House_Price_Prediction/edit/main/dataset) compiled by Dean De Cock.
+Used the AmesHousing dataset [here](https://github.com/srikanthv0610/House_Price_Prediction/edit/main/Dataset) compiled by Dean De Cock.
 
 Apply Feature Transformation, Feature Selection and K-fold Cross Validation.
 
