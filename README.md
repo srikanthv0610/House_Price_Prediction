@@ -24,7 +24,7 @@ A parameter k is introduced to the defined train_test function that controls the
 * k = 1 
 * k > 1
 
-# Linear Regression to predict the House Price
+# Predict using Linear Regression
 Once the Data Preprocessing and K-Fold Cross Validation is done, we use Linear Regression to predict the House Price and we compute the RMSE to evaluate the quality of Prediction:
 
 ```python
