@@ -17,3 +17,8 @@ We use Linear Regression to Predict the House Prices.
 ![Heatmap](https://github.com/srikanthv0610/House_Price_Prediction/blob/main/plots/Heatmap_Collinearity.png)
 
 # K-Fold Cross Validation
+A parameter k is introduced to the defined test_train_split function that controls the types of cross-Validation for 
+* k=0 
+* k=1 
+* k>1
+
