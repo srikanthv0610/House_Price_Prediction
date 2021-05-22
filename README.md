@@ -17,8 +17,14 @@ We use Linear Regression to Predict the House Prices.
 ![Heatmap](https://github.com/srikanthv0610/House_Price_Prediction/blob/main/plots/Heatmap_Collinearity.png)
 
 # K-Fold Cross Validation
-A parameter k is introduced to the defined test_train_split function that controls the types of cross-Validation for 
-* k=0 
-* k=1 
-* k>1
+A parameter k is introduced to the defined train_test function that controls the types of cross-Validation for:
+* k = 0 
+* k = 1 
+* k > 1
+
+# Linear Regression to predict the House Price
+Once the Data Preprocessing and K-Fold Cross Validation is done, we use Linear Regression to predict the House Price and we compute the RMSE to evaluate the quality of Prediction:
+
+from sklearn import linear_model
+RMSE = mean_squared_error(test_set, predictied_value) 
 
