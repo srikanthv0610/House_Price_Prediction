@@ -1,9 +1,11 @@
 # House_Price_Prediction
-Used the AmesHousing dataset [here](https://github.com/srikanthv0610/House_Price_Prediction/edit/main/Dataset) compiled by Dean De Cock.
 
-Apply Feature Transformation, Feature Selection and K-fold Cross Validation.
+**Why:** To estimate the house prices for helping people who plan to buy a house so they can know the price range in the future and plan their finance well. In addition, house price predictions are also beneficial for property investors to know the trend of housing prices in a certain location.
 
-Linear Regression to Predict the House Prices.
+**Steps:**
+* Used the AmesHousing dataset [here](https://github.com/srikanthv0610/House_Price_Prediction/edit/main/Dataset) compiled by Dean De Cock.
+* Apply Feature Transformation, Feature Selection and K-fold Cross Validation.
+* Linear Regression to Predict the House Prices.
 
 ## Feature Transformation
 * Check the columns with more than 15% missing values and drop them.
