@@ -1,5 +1,9 @@
 # House_Price_Prediction
 
+## Introduction:
+
+![House_Price](https://github.com/srikanthv0610/House_Price_Prediction/blob/main/plots/House%20Price%20Predition.png)
+
 **Why:** To estimate the house prices for helping people who plan to buy a house so they can know the price range in the future and plan their finance well. In addition, house price predictions are also beneficial for property investors to know the trend of housing prices in a certain location.
 
 **Steps:**
